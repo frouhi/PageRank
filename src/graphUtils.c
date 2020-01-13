@@ -5,7 +5,6 @@
 /**********************************/
 /*Farhang Rouhi                   */
 /*Date: 22 April 2018             */
-/*lab#8: part 1                   */
 /**********************************/
 float* PRhelper(struct graph* g,float* pr, int* outNum,int nodeCount);
 /*This struct is for the linked list of nodes used to implement
