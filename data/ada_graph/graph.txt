@@ -1,0 +1,13 @@
+Ada_Lovelace,Mathematician
+Ada_Lovelace,Charles_Babbage
+Ada_Lovelace,Analytical_Engine
+Charles_Babbage,Computer
+Charles_Babbage,Polymath
+Charles_Babbage,Mechanical_computer
+Charles_Babbage,Difference_engine
+Difference_engine,Human_computer
+Human_computer,Computer
+Mechanical_computer,Computer
+Mechanical_computer,Difference_engine
+Analytical_Engine,Charles_Babbage
+Analytical_Engine,Computer
