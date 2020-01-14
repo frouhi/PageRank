@@ -1,6 +1,7 @@
-/**************************************************/
-/* Defines basic graph functionality (linked list)*/
-/**************************************************/
+/*************************************************/
+/* Defines basic graph functionality (linked list*/
+/* style to be used for Lab 8                    */
+/*************************************************/
 
 #include <string.h>
 #include <stdlib.h>
