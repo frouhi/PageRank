@@ -7,7 +7,6 @@
 /**************************************/
 /*Farhang Rouhi                       */
 /*Date: 3 May 2018                    */
-/*Lab#8                               */
 /**************************************/
 void printPageRank(struct graph* g);
 void calculatePageRank(struct graph* g);

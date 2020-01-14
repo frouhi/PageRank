@@ -5,7 +5,6 @@
 /**************************************/
 /*Farhang Rouhi                       */
 /*Date: 3 May 2018                    */
-/*Lab#8                               */
 /**************************************/
 void freeElt(struct HashElt* elt);
 /* Turns the token from the HashElt into a number by adding the ascii values of each char in the token string*/

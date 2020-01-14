@@ -6,7 +6,6 @@
 /**************************************/
 /*Farhang Rouhi                       */
 /*Date: 3 May 2018                    */
-/*Lab#8                               */
 /**************************************/
 float pageRank=0;
 /*This is what is called from outside to also get page rank*/
