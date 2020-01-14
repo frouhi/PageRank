@@ -15,8 +15,8 @@ At this point, the program searches for the given token and prints out the highe
 
 To compile, use the make command. The Makefile is included.
 
-Name of the executable is query. Use "./query graph_name keyword". This will search the files in the graph for the keyword.
-One set of files and a graph is included in data directory. To use this example run "./query ../data/graph.txt keyword".
+Name of the executable is query. Use **./query graph_name keyword**. This will search the files in the graph for the keyword.
+One set of files and a graph is included in data directory. To use this example run **./query ../data/graph.txt keyword**.
 
 **Components**
 
